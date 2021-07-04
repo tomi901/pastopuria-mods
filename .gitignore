@@ -1,0 +1,6 @@
+# Ignore everything but the mods and the config
+/**
+!/.gitignore
+
+!/mods
+!/mods/**/*
