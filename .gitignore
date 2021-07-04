@@ -4,3 +4,6 @@
 
 !/mods
 !/mods/**/*
+
+!/config
+!/config/theoneprobe-client.toml
