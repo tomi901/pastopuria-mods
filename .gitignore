@@ -1,6 +1,7 @@
 # Ignore everything but the mods and the config
 /**
 !/.gitignore
+!/README.md
 
 !/mods
 !/mods/**/*
