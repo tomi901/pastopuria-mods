@@ -8,3 +8,8 @@
 
 !/config
 !/config/theoneprobe-client.toml
+!/config/create-common.toml
+
+
+!/serverconfig
+!/serverconfig/**/*
