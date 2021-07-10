@@ -11,5 +11,5 @@
 !/config/create-common.toml
 
 
-!/serverconfig
-!/serverconfig/**/*
+!/defaultconfigs
+!/defaultconfigs/**/*
